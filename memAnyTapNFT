@@ -1,0 +1,18 @@
+{
+  "buttons": [
+    {
+      "label": "AnyTap_Bot",
+      "uri": "https://t.me/AnyTap_bot"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Meme NFT"
+    }
+  ],
+  "content_url": "https://peach-traditional-hawk-971.mypinata.cloud/ipfs/QmTdx44ntbT4ctRfQ3oyZGw6gdZobizMgcdCafVxZZYRhe",
+  "description": "The meme NFT is meant to reward the first users of the ecosystem.",
+  "name": "Anytap & Cats Meme",
+  "image": "https://peach-traditional-hawk-971.mypinata.cloud/ipfs/QmTdx44ntbT4ctRfQ3oyZGw6gdZobizMgcdCafVxZZYRhe"
+}
