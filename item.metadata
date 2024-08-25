@@ -1,0 +1,18 @@
+{
+  "buttons": [
+    {
+      "label": "AnyTap_Bot",
+      "uri": "https://t.me/AnyTap_bot"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Basic"
+    }
+  ],
+  "content_url": "https://peach-traditional-hawk-971.mypinata.cloud/ipfs/QmYA4BBrm7PSnt6Zz5thgggkgucdeEVMTvHB4Z7LBUe9zs",
+  "description": "The Start NFT is intended for every user of our mini-application.",
+  "name": "Start",
+  "image": "https://peach-traditional-hawk-971.mypinata.cloud/ipfs/QmXYR3ycv5wczZn58mDJCnbodty3VKCLNjUewTDvUBj2zL"
+}
