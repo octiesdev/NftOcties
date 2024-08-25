@@ -1,0 +1,18 @@
+{
+  "buttons": [
+    {
+      "label": "AnyTap_Bot",
+      "uri": "https://t.me/AnyTap_bot"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Weekly"
+    }
+  ],
+  "content_url": "https://peach-traditional-hawk-971.mypinata.cloud/ipfs/QmYzC7H48sVLf8E56ZxHLunQ2n5u4omuAZ5qdd1V2M8rj8",
+  "description": "This NFT represents the number of active weeks spent in AnyTap!",
+  "name": "Weekly",
+  "image": "https://peach-traditional-hawk-971.mypinata.cloud/ipfs/QmQ2sKnZojkSo26j9UWuo3ghEaZ3HfQUS1i29W6wYu8D1V"
+}
